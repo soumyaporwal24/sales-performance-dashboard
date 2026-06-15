@@ -26,6 +26,15 @@ The project was executed in five key phases:
 - **✅ Phase 5: Business Insights & Recommendations**
   - Formulated a **Business Recommendation Brief** detailing critical findings (e.g., identifying *Technology* as the top-performing category, *West* as the most profitable region, and flagging *Tables, Bookcases & Supplies* for negative profitability) and actionable recommendations for stakeholders.
 
+## 🧠 What I Learned
+Building this project allowed me to strengthen both my technical data analysis skills and my business acumen. Specifically, I improved my ability to:
+
+- **Structure Large Datasets:** Successfully managed, formatted, and maintained data integrity for nearly 10,000 transaction records.
+- **Advanced Data Modeling:** Mastered the use of complex Pivot Tables to aggregate data across multiple dimensions (Region, Category, Sub-Category, and Segment).
+- **Interactive Dashboard Design:** Learned how to link multiple visual elements to centralized Slicers, creating a seamless, dynamic user experience for end-users to filter data instantly.
+- **Data Storytelling:** Practiced choosing the right visualizations (e.g., Line Trends for time-series data, Bar Charts for categorical comparisons) to highlight both performance successes and areas of concern.
+- **Actionable Business Reporting:** Bridged the gap between raw numbers and business strategy by translating analytical findings into a clear, stakeholder-facing **Business Recommendation Brief**.
+
 ## Files Included
 - `Sample - Superstore.xlsx`: The main Excel workbook containing the cleaned data, pivot tables, interactive dashboard, and business brief.
 - `Sample - Superstore.csv`: Raw dataset.
